@@ -39,7 +39,7 @@ void menu()
 	int choice;
 	char symb;
 	printf("\n***           ***");
-    printf("\n*** ADKP BANK ***");
+    printf("\n*** BANK ***");
     printf("\n***           ***");
 	printf("\n\n1.NEW USER\n2.ALREADY REGISTERED");
 	printf("\n\nENTER CHOICE :- ");
